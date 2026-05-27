@@ -15,7 +15,5 @@ OUTPUT:
 https://drive.google.com/file/d/1gTWADQ3nGX3mApFJnJLlXdzaJKPT_8qV/view?usp=sharing
 
 RESULT: 
-# Result
-
 The experiment showed that basic prompts with clear and detailed instructions generated more accurate, high-quality, and detailed responses than naïve prompts in all test scenarios.
 
